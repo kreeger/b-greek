@@ -27,7 +27,7 @@
 	<key>GrowlPluginAuthor</key>
 	<string>Benjamin Kreeger</string>
 	<key>GrowlHasShadow</key>
-	<false/>
+	<true/>
 	<key>GrowlPaddingX</key>
 	<real>5</real>
 	<key>GrowlPaddingY</key>
