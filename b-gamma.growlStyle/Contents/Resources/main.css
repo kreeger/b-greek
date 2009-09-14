@@ -1,7 +1,7 @@
-body { color: #FFF; font: 11px "Helvetica Neue", Helvetica, Arial, sans-serif; margin: 0; padding: 0; background-color: #FDF;}
+body { color: #FFF; font: 11px "Helvetica Neue", Helvetica, Arial, sans-serif; margin: 0; padding: 0; }
 #content { background: url(back.png) no-repeat; height: 50px; width: 250px;}
 img { width: 30px; padding: 10px; float: left; }
-table { width: 170px; height: 36px; position: relative; top: 6px; padding-right: 2px;}
+table { width: 170px; height: 36px; position: relative; top: 6px; padding-right: 2px; }
 td { vertical-align: middle; }
 h1 { font-size: 11px; margin: 0; }
 p { margin: 0px; max-height: 21px; overflow: hidden; line-height: 10px; font-size: 10px; }
