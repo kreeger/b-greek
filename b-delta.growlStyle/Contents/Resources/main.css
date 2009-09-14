@@ -1,0 +1,12 @@
+body { color: #FFF; font: 12px "Helvetica Neue", Helvetica, Arial, sans-serif; margin: 0; padding: 0; text-align: right; }
+#content { background: url(box.png) no-repeat; height: 100px; width: 350px; text-align: right; }
+
+#verylow { color: #4ff; text-align: right; }
+#moderate { color: #27ff67; text-align: right; }
+#normal { color: #fffeff; text-align: right; }
+#high { color: #faff62; text-align: right; }
+#emergency { color: #f00; text-align: right; }
+
+img { float: right; width: 112px; position: relative; bottom: 6px; }
+h1 { font-size: 14px; margin: 0; padding-top: 16px; }
+p { margin: 0; padding-top: 3px; line-height: 11px; overflow: hidden; height: 45px; padding-left: 10px; }

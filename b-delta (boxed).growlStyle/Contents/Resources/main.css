@@ -1,0 +1,14 @@
+body { color: #fff; font: 12px "Helvetica Neue", Helvetica, Arial, sans-serif; margin: 0; padding: 0; text-align: right; }
+div { height: 78px; width: 350px; }
+#content { background: url(box.png) no-repeat 0 -11px; height: 78px; width: 350px; overflow: hidden; }
+img { float: right; width: 112px; position: relative; bottom: 17px; }
+
+#verylow { color: #4ff; }
+#moderate { color: #27ff67; }
+#normal { color: #fffeff; }
+#high { color: #faff62; }
+#emergency { color: #f00; }
+
+h1 { font-size: 14px; margin: 0; padding-top: 6px; }
+p { margin: 0; padding-top: 3px; line-height: 11px; overflow: hidden; height: 45px; padding-left: 10px; }
+div#border { position: absolute; z-index: 2; bottom: 1px; border: 2px solid #d5d5d5; width: 338px; left: 4px; top: 0px; height: 74px;}
