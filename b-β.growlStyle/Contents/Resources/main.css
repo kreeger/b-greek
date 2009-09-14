@@ -1,0 +1,45 @@
+body { color: white; margin: 0; width: 300px; font-family: "Roadgeek 2005 Blend D4B", "Franklin Gothic Book", "Helvetica Neue", Arial; letter-spacing: 2px; }
+
+#top { background: url(grn_01.png) no-repeat; height: 41px; }
+
+#table { background: url(grn_02.png) repeat-y; width: 300px; }
+
+table td { padding: 0 15px; vertical-align: top; text-align: center; width: 300px; }
+
+table td#icon img { width: 90px; height: 90px; clear: none; }
+
+table td#title { font-size: 20px; padding-bottom: 5px; }
+
+table td#text { font-size: 12px; }
+
+#bottom { background: url(grn_03.png) no-repeat; height: 38px; }
+
+#verylow #top { background: url(purp_01.png) no-repeat; }
+
+#moderate #top { background: url(turq_01.png) no-repeat;  }
+
+#normal #top { background: url(grn_01.png) no-repeat;  }
+
+#high #top { background: url(yellow_01.png) no-repeat;  }
+
+#emergency #top { background: url(red_01.png) no-repeat;  }
+
+#verylow #table { background: url(purp_02.png) repeat-y; }
+
+#moderate #table { background: url(turq_02.png) repeat-y;  }
+
+#normal #table { background: url(grn_02.png) repeat-y;  }
+
+#high #table { background: url(yellow_02.png) repeat-y;  }
+
+#emergency #table { background: url(red_02.png) repeat-y;  }
+
+#verylow #bottom { background: url(purp_03.png) no-repeat; }
+
+#moderate #bottom { background: url(turq_03.png) no-repeat;  }
+
+#normal #bottom { background: url(grn_03.png) no-repeat;  }
+
+#high #bottom { background: url(yellow_03.png) no-repeat;  }
+
+#emergency #bottom { background: url(red_03.png) no-repeat;  }
